@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://locare-web-app-services.vercel.app/sitemap.xml
