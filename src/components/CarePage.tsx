@@ -103,7 +103,7 @@ export default function CarePage({ category, title, description, color }: CarePa
     return R * c;
   };
 
-  const cities = [...new Set(facilities.map(f => f.city))].sort();
+  const cities = Array.from(new Set(facilities.map(f => f.city))).sort();
 
   if (loading) {
     return (
