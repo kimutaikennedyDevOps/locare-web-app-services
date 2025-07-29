@@ -23,7 +23,7 @@ export default function SignupPage() {
         email,
         password,
         options: {
-          emailRedirectTo: `${window.location.origin}/care`
+          emailRedirectTo: `${window.location.origin}/auth/callback`
         }
       });
 
