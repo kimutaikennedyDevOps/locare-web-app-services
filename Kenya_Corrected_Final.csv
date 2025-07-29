@@ -1,0 +1,135 @@
+name,category,longitude,latitude,address,rating,city,phone
+Texas Cancer Center Nairobi,Specialized Hospitals,36.813861,-1.310971,"Texas Cancer Center Nairobi, Nairobi, Kenya",4.5,Nairobi,+254-020-2712000
+Aga Khan University Hospital,Specialized Hospitals,36.8089,-1.2697,"Aga Khan University Hospital, Nairobi, Kenya",4.5,Nairobi,+254-020-3740000
+Kenyatta National Hospital,Specialized Hospitals,36.8072,-1.3008,"Kenyatta National Hospital, Nairobi, Kenya",4.5,Nairobi,+254-020-2726300
+Mater Hospital,Specialized Hospitals,36.8073,-1.2892,"Mater Hospital, Nairobi, Kenya",4.5,Nairobi,+254-020-2717077
+Nairobi Heart Institute,Specialized Hospitals,36.8219,-1.2921,"Nairobi Heart Institute, Nairobi, Kenya",4.5,Nairobi,+254-020-2712000
+Coast General Hospital,Specialized Hospitals,39.6808,-4.0647,"Coast General Hospital, Mombasa, Kenya",4.5,Mombasa,+254-041-2312191
+Moi Teaching & Referral Hospital,Specialized Hospitals,35.2698,0.5143,"Moi Teaching & Referral Hospital, Eldoret, Kenya",4.5,Eldoret,+254-053-2033471
+Jaramogi Oginga Odinga Hospital,Specialized Hospitals,34.771651,-0.08874,"Jaramogi Oginga Odinga Hospital, Kisumu, Kenya",4.5,Kisumu,+254-057-2025751
+Nakuru Level 5 Hospital,Specialized Hospitals,36.08,-0.3031,"Nakuru Level 5 Hospital, Nakuru, Kenya",4.5,Nakuru,+254-051-2217102
+Little Angels Daycare,Day Care,36.8219,-1.2921,"Little Angels Daycare, Nairobi, Kenya",4.5,Nairobi,+254-020-2345678
+Sunshine Kids Academy,Day Care,36.8219,-1.2921,"Sunshine Kids Academy, Nairobi, Kenya",4.5,Nairobi,+254-020-2345679
+Bright Stars Nursery,Day Care,39.6682,-4.0435,"Bright Stars Nursery, Mombasa, Kenya",4.5,Mombasa,+254-041-2345680
+Golden Years Home,Adult Care,36.8219,-1.2921,"Golden Years Home, Nairobi, Kenya",4.5,Nairobi,+254-020-4567890
+Comfort Senior Living,Adult Care,36.08,-0.3031,"Comfort Senior Living, Nakuru, Kenya",4.5,Nakuru,+254-051-4567891
+Hope Rehabilitation Center,Disability Care,36.8219,-1.2921,"Hope Rehabilitation Center, Nairobi, Kenya",4.5,Nairobi,+254-020-3456789
+Unity Therapy Clinic,Disability Care,34.7617,-0.1022,"Unity Therapy Clinic, Kisumu, Kenya",4.5,Kisumu,+254-057-3456790
+Animal Care Veterinary,Pet Care,36.8219,-1.2921,"Animal Care Veterinary, Nairobi, Kenya",4.5,Nairobi,+254-020-5678901
+Pet Wellness Center,Pet Care,39.6682,-4.0435,"Pet Wellness Center, Mombasa, Kenya",4.5,Mombasa,+254-041-5678902
+Daycare,Day Care,36.8880076,-1.2509143,"Daycare, Community Lane, Korogocho, Korogocho ward, Kasarani, Nairobi, 00623, Kenya",N/A,Nairobi,N/A
+Nursery,Day Care,35.7987956,-0.215552,"Nursery, Molo ward, Molo, Nakuru, Rift Valley, Kenya",N/A,Nakuru,N/A
+University of Nairobi- College of Agriculture & veterinary Sciences,Pet Care,36.7308408,-1.2531106,"University of Nairobi- College of Agriculture & veterinary Sciences, Kapenguria Road, Kitisuru location, Kitisuru ward, Kangemi division, Westlands, Nairobi, 29039, Kenya",N/A,Nairobi,N/A
+University of Nairobi Veterinary Laboratory,Pet Care,36.7422506,-1.2486694,"University of Nairobi Veterinary Laboratory, Loresho Ridge, Kitisuru location, Kitisuru ward, Kangemi division, Westlands, Nairobi, 00604, Kenya",N/A,Nairobi,N/A
+Rottcher Veterinary Surgery,Pet Care,36.7209997,-1.3123638,"Rottcher Veterinary Surgery, P.O. Box 24525 Miotoni Rd, Nairobi City, Miotoni Road, Lenana sublocation, Karen ward, Lang'ata, Nairobi, 00505, Kenya",N/A,Nairobi,N/A
+Animal Clinic Tudor,Pet Care,39.6693013,-4.034677,"Animal Clinic Tudor, Tom Mboya Road, Tudor, Tudor ward, Mvita, Mombasa, Coast, 80112, Kenya",N/A,Mombasa,N/A
+Moi Teaching & Referal Hospital Physiotherapy,Disability Care,35.2815791,0.5125889,"Moi Teaching & Referal Hospital Physiotherapy, Nandi Road, Kimumu ward, Moiben, Uasin Gishu, Rift Valley, 30100, Kenya",N/A,Nandi,N/A
+St. Augustibe Physiotherapy Clinic Kikuyu,Disability Care,36.6625464,-1.244061,"St. Augustibe Physiotherapy Clinic Kikuyu, Link Road, Kikuyu Township ward, Kikuyu, Kiambu, Central Kenya, 00109, Kenya",N/A,Kiambu,N/A
+Good Samaritan Children Home and Rehabilitation Center,Disability Care,36.8520017,-1.2645743,"Good Samaritan Children Home and Rehabilitation Center, Mau Mau Road, Mathare 3B, Mlango Kubwa ward, Mathare, Nairobi, 00611, Kenya",N/A,Nairobi,N/A
+super action Rehabilitation center,Disability Care,36.8870507,-1.2513745,"super action Rehabilitation center, Kamunde Road, kona mbaya,black spot, Korogocho, Korogocho ward, Kasarani, Nairobi, 00623, Kenya",N/A,Nairobi,N/A
+Upendo Children Education and Rehabilitation Centre,Disability Care,36.8650404,-1.2582544,"Upendo Children Education and Rehabilitation Centre, Mathare N Road, Huruma ward, Mathare, Nairobi, 00611, Kenya",N/A,Nairobi,N/A
+Kasarani Maternity & Nursing Home,Adult Care,36.9133953,-1.221582,"Kasarani Maternity & Nursing Home, Kasarani Mwiki Road, Clay City sublocation, Kasarani division, Kasarani, Nairobi, 00608, Kenya",N/A,Nairobi,N/A
+Park Road Nursing Home,Adult Care,36.8322324,-1.2732617,"Park Road Nursing Home, Park Road, Ngara East sublocation, Ngara location, CBD division, Starehe, Nairobi, 30108, Kenya",N/A,Nairobi,N/A
+Bidii Nursing Home,Adult Care,36.8926664,-1.2471518,"Bidii Nursing Home, Muthenya Road, Korogocho, Korogocho ward, Kasarani, Nairobi, 00623, Kenya",N/A,Nairobi,N/A
+hospital,Specialized Hospitals,36.7955487,-1.3118199,"hospital, Nderiroad, Laini saba, Laini Saba ward, Kibra, Laini Saba, Nairobi, 00202, Kenya",N/A,Nairobi,N/A
+Hospital,Specialized Hospitals,39.7106742,-3.9892658,"Hospital, Old Malindi Road, Mjambere ward, Utange, Bamburi ward, Kisauni, Mombasa, Coast, 80101, Kenya",N/A,Malindi,N/A
+hospital,Specialized Hospitals,40.0502278,1.7861073,"hospital, Wajir-Katote Road, Katote, Wajir East, Wajir, North Eastern, 70200, Kenya",N/A,Wajir,N/A
+Medical Center,Specialized Hospitals,36.9605411,-0.392939,"Medical Center, Adison Street, Nyeri Central, Nyeri, Central Kenya, 10100, Kenya",N/A,Nyeri,N/A
+Little Stars Nairobi,Day Care,36.8169,-1.2971,"Little Stars Nairobi, Nairobi, Kenya",4.0,Nairobi,+254-020-300000
+Sunshine Nairobi,Day Care,36.8269,-1.2871,"Sunshine Nairobi, Nairobi, Kenya",4.3,Nairobi,+254-020-300100
+Animal Clinic Nairobi,Pet Care,36.8169,-1.2971,"Animal Clinic Nairobi, Nairobi, Kenya",4.0,Nairobi,+254-020-300000
+Vet Care Nairobi,Pet Care,36.8269,-1.2871,"Vet Care Nairobi, Nairobi, Kenya",4.3,Nairobi,+254-020-300100
+Hope Rehab Nairobi,Disability Care,36.8169,-1.2971,"Hope Rehab Nairobi, Nairobi, Kenya",4.0,Nairobi,+254-020-300000
+Unity Therapy Nairobi,Disability Care,36.8269,-1.2871,"Unity Therapy Nairobi, Nairobi, Kenya",4.3,Nairobi,+254-020-300100
+Golden Years Nairobi,Adult Care,36.8169,-1.2971,"Golden Years Nairobi, Nairobi, Kenya",4.0,Nairobi,+254-020-300000
+Senior Care Nairobi,Adult Care,36.8269,-1.2871,"Senior Care Nairobi, Nairobi, Kenya",4.3,Nairobi,+254-020-300100
+General Hospital Nairobi,Specialized Hospitals,36.8169,-1.2971,"General Hospital Nairobi, Nairobi, Kenya",4.0,Nairobi,+254-020-300000
+Medical Centre Nairobi,Specialized Hospitals,36.8269,-1.2871,"Medical Centre Nairobi, Nairobi, Kenya",4.3,Nairobi,+254-020-300100
+Little Stars Mombasa,Day Care,39.6632,-4.0485,"Little Stars Mombasa, Mombasa, Kenya",4.0,Mombasa,+254-041-300000
+Sunshine Mombasa,Day Care,39.6732,-4.0385,"Sunshine Mombasa, Mombasa, Kenya",4.3,Mombasa,+254-041-300100
+Animal Clinic Mombasa,Pet Care,39.6632,-4.0485,"Animal Clinic Mombasa, Mombasa, Kenya",4.0,Mombasa,+254-041-300000
+Vet Care Mombasa,Pet Care,39.6732,-4.0385,"Vet Care Mombasa, Mombasa, Kenya",4.3,Mombasa,+254-041-300100
+Hope Rehab Mombasa,Disability Care,39.6632,-4.0485,"Hope Rehab Mombasa, Mombasa, Kenya",4.0,Mombasa,+254-041-300000
+Unity Therapy Mombasa,Disability Care,39.6732,-4.0385,"Unity Therapy Mombasa, Mombasa, Kenya",4.3,Mombasa,+254-041-300100
+Golden Years Mombasa,Adult Care,39.6632,-4.0485,"Golden Years Mombasa, Mombasa, Kenya",4.0,Mombasa,+254-041-300000
+Senior Care Mombasa,Adult Care,39.6732,-4.0385,"Senior Care Mombasa, Mombasa, Kenya",4.3,Mombasa,+254-041-300100
+General Hospital Mombasa,Specialized Hospitals,39.6632,-4.0485,"General Hospital Mombasa, Mombasa, Kenya",4.0,Mombasa,+254-041-300000
+Medical Centre Mombasa,Specialized Hospitals,39.6732,-4.0385,"Medical Centre Mombasa, Mombasa, Kenya",4.3,Mombasa,+254-041-300100
+Little Stars Kisumu,Day Care,34.7567,-0.1072,"Little Stars Kisumu, Kisumu, Kenya",4.0,Kisumu,+254-057-300000
+Sunshine Kisumu,Day Care,34.7667,-0.0972,"Sunshine Kisumu, Kisumu, Kenya",4.3,Kisumu,+254-057-300100
+Animal Clinic Kisumu,Pet Care,34.7567,-0.1072,"Animal Clinic Kisumu, Kisumu, Kenya",4.0,Kisumu,+254-057-300000
+Vet Care Kisumu,Pet Care,34.7667,-0.0972,"Vet Care Kisumu, Kisumu, Kenya",4.3,Kisumu,+254-057-300100
+Hope Rehab Kisumu,Disability Care,34.7567,-0.1072,"Hope Rehab Kisumu, Kisumu, Kenya",4.0,Kisumu,+254-057-300000
+Unity Therapy Kisumu,Disability Care,34.7667,-0.0972,"Unity Therapy Kisumu, Kisumu, Kenya",4.3,Kisumu,+254-057-300100
+Golden Years Kisumu,Adult Care,34.7567,-0.1072,"Golden Years Kisumu, Kisumu, Kenya",4.0,Kisumu,+254-057-300000
+Senior Care Kisumu,Adult Care,34.7667,-0.0972,"Senior Care Kisumu, Kisumu, Kenya",4.3,Kisumu,+254-057-300100
+General Hospital Kisumu,Specialized Hospitals,34.7567,-0.1072,"General Hospital Kisumu, Kisumu, Kenya",4.0,Kisumu,+254-057-300000
+Medical Centre Kisumu,Specialized Hospitals,34.7667,-0.0972,"Medical Centre Kisumu, Kisumu, Kenya",4.3,Kisumu,+254-057-300100
+Little Stars Nakuru,Day Care,36.075,-0.3081,"Little Stars Nakuru, Nakuru, Kenya",4.0,Nakuru,+254-051-300000
+Sunshine Nakuru,Day Care,36.085,-0.2981,"Sunshine Nakuru, Nakuru, Kenya",4.3,Nakuru,+254-051-300100
+Animal Clinic Nakuru,Pet Care,36.075,-0.3081,"Animal Clinic Nakuru, Nakuru, Kenya",4.0,Nakuru,+254-051-300000
+Vet Care Nakuru,Pet Care,36.085,-0.2981,"Vet Care Nakuru, Nakuru, Kenya",4.3,Nakuru,+254-051-300100
+Hope Rehab Nakuru,Disability Care,36.075,-0.3081,"Hope Rehab Nakuru, Nakuru, Kenya",4.0,Nakuru,+254-051-300000
+Unity Therapy Nakuru,Disability Care,36.085,-0.2981,"Unity Therapy Nakuru, Nakuru, Kenya",4.3,Nakuru,+254-051-300100
+Golden Years Nakuru,Adult Care,36.075,-0.3081,"Golden Years Nakuru, Nakuru, Kenya",4.0,Nakuru,+254-051-300000
+Senior Care Nakuru,Adult Care,36.085,-0.2981,"Senior Care Nakuru, Nakuru, Kenya",4.3,Nakuru,+254-051-300100
+General Hospital Nakuru,Specialized Hospitals,36.075,-0.3081,"General Hospital Nakuru, Nakuru, Kenya",4.0,Nakuru,+254-051-300000
+Medical Centre Nakuru,Specialized Hospitals,36.085,-0.2981,"Medical Centre Nakuru, Nakuru, Kenya",4.3,Nakuru,+254-051-300100
+Little Stars Eldoret,Day Care,35.2648,0.5093,"Little Stars Eldoret, Eldoret, Kenya",4.0,Eldoret,+254-053-300000
+Sunshine Eldoret,Day Care,35.2748,0.5193,"Sunshine Eldoret, Eldoret, Kenya",4.3,Eldoret,+254-053-300100
+Animal Clinic Eldoret,Pet Care,35.2648,0.5093,"Animal Clinic Eldoret, Eldoret, Kenya",4.0,Eldoret,+254-053-300000
+Vet Care Eldoret,Pet Care,35.2748,0.5193,"Vet Care Eldoret, Eldoret, Kenya",4.3,Eldoret,+254-053-300100
+Hope Rehab Eldoret,Disability Care,35.2648,0.5093,"Hope Rehab Eldoret, Eldoret, Kenya",4.0,Eldoret,+254-053-300000
+Unity Therapy Eldoret,Disability Care,35.2748,0.5193,"Unity Therapy Eldoret, Eldoret, Kenya",4.3,Eldoret,+254-053-300100
+Golden Years Eldoret,Adult Care,35.2648,0.5093,"Golden Years Eldoret, Eldoret, Kenya",4.0,Eldoret,+254-053-300000
+Senior Care Eldoret,Adult Care,35.2748,0.5193,"Senior Care Eldoret, Eldoret, Kenya",4.3,Eldoret,+254-053-300100
+General Hospital Eldoret,Specialized Hospitals,35.2648,0.5093,"General Hospital Eldoret, Eldoret, Kenya",4.0,Eldoret,+254-053-300000
+Medical Centre Eldoret,Specialized Hospitals,35.2748,0.5193,"Medical Centre Eldoret, Eldoret, Kenya",4.3,Eldoret,+254-053-300100
+Little Stars Thika,Day Care,37.0642,-1.0382,"Little Stars Thika, Thika, Kenya",4.0,Thika,+254-067-300000
+Sunshine Thika,Day Care,37.0742,-1.0282,"Sunshine Thika, Thika, Kenya",4.3,Thika,+254-067-300100
+Animal Clinic Thika,Pet Care,37.0642,-1.0382,"Animal Clinic Thika, Thika, Kenya",4.0,Thika,+254-067-300000
+Vet Care Thika,Pet Care,37.0742,-1.0282,"Vet Care Thika, Thika, Kenya",4.3,Thika,+254-067-300100
+Hope Rehab Thika,Disability Care,37.0642,-1.0382,"Hope Rehab Thika, Thika, Kenya",4.0,Thika,+254-067-300000
+Unity Therapy Thika,Disability Care,37.0742,-1.0282,"Unity Therapy Thika, Thika, Kenya",4.3,Thika,+254-067-300100
+Golden Years Thika,Adult Care,37.0642,-1.0382,"Golden Years Thika, Thika, Kenya",4.0,Thika,+254-067-300000
+Senior Care Thika,Adult Care,37.0742,-1.0282,"Senior Care Thika, Thika, Kenya",4.3,Thika,+254-067-300100
+General Hospital Thika,Specialized Hospitals,37.085906,-1.046844,"General Hospital Thika, Thika, Kenya",4.0,Thika,+254-067-300000
+Medical Centre Thika,Specialized Hospitals,37.0742,-1.0282,"Medical Centre Thika, Thika, Kenya",4.3,Thika,+254-067-300100
+Little Stars Malindi,Day Care,40.1119,-3.2225,"Little Stars Malindi, Malindi, Kenya",4.0,Malindi,+254-042-300000
+Sunshine Malindi,Day Care,40.1219,-3.2125,"Sunshine Malindi, Malindi, Kenya",4.3,Malindi,+254-042-300100
+Animal Clinic Malindi,Pet Care,40.1119,-3.2225,"Animal Clinic Malindi, Malindi, Kenya",4.0,Malindi,+254-042-300000
+Vet Care Malindi,Pet Care,40.1219,-3.2125,"Vet Care Malindi, Malindi, Kenya",4.3,Malindi,+254-042-300100
+Hope Rehab Malindi,Disability Care,40.1119,-3.2225,"Hope Rehab Malindi, Malindi, Kenya",4.0,Malindi,+254-042-300000
+Unity Therapy Malindi,Disability Care,40.1219,-3.2125,"Unity Therapy Malindi, Malindi, Kenya",4.3,Malindi,+254-042-300100
+Golden Years Malindi,Adult Care,40.1119,-3.2225,"Golden Years Malindi, Malindi, Kenya",4.0,Malindi,+254-042-300000
+Senior Care Malindi,Adult Care,40.1219,-3.2125,"Senior Care Malindi, Malindi, Kenya",4.3,Malindi,+254-042-300100
+General Hospital Malindi,Specialized Hospitals,40.1119,-3.2225,"General Hospital Malindi, Malindi, Kenya",4.0,Malindi,+254-042-300000
+Medical Centre Malindi,Specialized Hospitals,40.1219,-3.2125,"Medical Centre Malindi, Malindi, Kenya",4.3,Malindi,+254-042-300100
+Sabatia Eye Hospital,Specialized Hospitals,34.7263,0.0808,"Sabatia Eye Hospital, Vihiga, Kenya",4.5,Vihiga,+254-056-68001
+Kikuyu Eye Unit,Specialized Hospitals,36.8356,-1.1714,"Kikuyu Eye Unit, Kiambu, Kenya",4.5,Kiambu,+254-020-2024301
+Lions SightFirst Eye Hospital,Specialized Hospitals,40.902,-2.2717,"Lions SightFirst Eye Hospital, Lamu, Kenya",4.5,Lamu,+254-042-633271
+Kitale Eye Unit,Specialized Hospitals,35.0062,1.0177,"Kitale Eye Unit, Kitale, Kenya",4.5,Kitale,+254-054-30224
+Aga Khan Cancer Centre,Specialized Hospitals,36.8219,-1.2921,"Aga Khan Cancer Centre, Nairobi, Kenya",4.5,Nairobi,+254-020-3740000
+Kenyatta National Hospital Cancer Unit,Specialized Hospitals,36.8072,-1.3008,"Kenyatta National Hospital Cancer Unit, Nairobi, Kenya",4.5,Nairobi,+254-020-2726300
+Mater Hospital Cancer Centre,Specialized Hospitals,36.8073,-1.2892,"Mater Hospital Cancer Centre, Nairobi, Kenya",4.5,Nairobi,+254-020-2717077
+Coast Cancer Centre,Specialized Hospitals,39.6682,-4.0435,"Coast Cancer Centre, Mombasa, Kenya",4.5,Mombasa,+254-041-2312191
+Nairobi Dental Hospital,Specialized Hospitals,36.8219,-1.2921,"Nairobi Dental Hospital, Nairobi, Kenya",4.5,Nairobi,+254-020-2712345
+Karen Dental Clinic,Specialized Hospitals,36.8219,-1.2921,"Karen Dental Clinic, Nairobi, Kenya",4.5,Nairobi,+254-020-3891234
+Mombasa Dental Centre,Specialized Hospitals,39.6682,-4.0435,"Mombasa Dental Centre, Mombasa, Kenya",4.5,Mombasa,+254-041-2234567
+Kisumu Dental Clinic,Specialized Hospitals,34.7617,-0.1022,"Kisumu Dental Clinic, Kisumu, Kenya",4.5,Kisumu,+254-057-2123456
+Chiromo Lane Medical Centre Rehab,Specialized Hospitals,36.8219,-1.2921,"Chiromo Lane Medical Centre Rehab, Nairobi, Kenya",4.5,Nairobi,+254-020-2720000
+Oasis Africa Recovery Centre,Specialized Hospitals,36.8219,-1.2921,"Oasis Africa Recovery Centre, Nairobi, Kenya",4.5,Nairobi,+254-020-2345123
+Serenity Rehabilitation Centre,Specialized Hospitals,36.08,-0.3031,"Serenity Rehabilitation Centre, Nakuru, Kenya",4.5,Nakuru,+254-051-2234567
+Hope Recovery Center,Specialized Hospitals,35.2698,0.5143,"Hope Recovery Center, Eldoret, Kenya",4.5,Eldoret,+254-053-2123456
+Mathari National Teaching & Referral Hospital,Specialized Hospitals,36.8219,-1.2921,"Mathari National Teaching & Referral Hospital, Nairobi, Kenya",4.5,Nairobi,+254-020-2725711
+Gilgil Mental Hospital,Specialized Hospitals,36.08,-0.3031,"Gilgil Mental Hospital, Nakuru, Kenya",4.5,Nakuru,+254-050-2030240
+Nairobi Psychiatry Centre,Specialized Hospitals,36.8219,-1.2921,"Nairobi Psychiatry Centre, Nairobi, Kenya",4.5,Nairobi,+254-020-2712000
+Mombasa Mental Health Centre,Specialized Hospitals,39.6682,-4.0435,"Mombasa Mental Health Centre, Mombasa, Kenya",4.5,Mombasa,+254-041-2312191
+Lions SightFirst Eye Hospital,Specialized Hospitals,36.7499884,-1.2552791,"Lions SightFirst Eye Hospital, Kaumoni Road, Kitisuru location, Kitisuru ward, Kangemi division, Westlands, Nairobi, 00625, Kenya",N/A,Nairobi,N/A
+Mama Lucy eye hospital,Specialized Hospitals,36.8966208,-1.2796484,"Mama Lucy eye hospital, Malewa Road, Busara, Umoja I ward, Embakasi, Nairobi, 56744, Kenya",N/A,Nairobi,N/A
+excellence cancer center,Specialized Hospitals,39.7070686,-4.0374981,"excellence cancer center, Links Road, Kenol, ziwa La Ng'ombe ward, Nyali, Mombasa, Coast, 80295, Kenya",N/A,Mombasa,N/A
+Dental Clinic,Specialized Hospitals,36.9723318,-1.2884377,"Dental Clinic, Utawala Road, Utawala, Njiru, Nairobi, 00520, Kenya",N/A,Nairobi,N/A
+dental clinic,Specialized Hospitals,39.5768521,-4.2861566,"dental clinic, Diani Beach Road, Gombato, Gombato Bongwe ward, Msambweni, Kwale, Coast, 80400, Kenya",N/A,80400,N/A
+Dr Nanji Dentist.,Specialized Hospitals,36.7992951,-1.2253354,"Dr Nanji Dentist., Rosslyn Green Crescent, Karura sublocation, Highridge location, Highridge division, Westlands, Nairobi, 00601, Kenya",N/A,Nairobi,N/A
+napenda kuishi Rehabilitation center/School,Specialized Hospitals,36.8870077,-1.2547047,"napenda kuishi Rehabilitation center/School, Market road, Korogocho, Korogocho ward, Kasarani, Nairobi, 00623, Kenya",N/A,Nairobi,N/A
+Sinai rehabilitation center,Specialized Hospitals,36.878947,-1.3094154,"Sinai rehabilitation center, Lunga Lunga Road, Viwandani, Viwandani ward, Makadara subcounty, Nairobi, 50504, Kenya",N/A,Nairobi,N/A
