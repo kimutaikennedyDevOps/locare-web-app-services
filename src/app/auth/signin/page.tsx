@@ -40,8 +40,8 @@ export default function SigninPage() {
 
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-green-50 flex items-center justify-center py-12 px-4 sm:px-6 lg:px-8">
-      <div className="max-w-md w-full space-y-8">
+    <div className="min-h-screen bg-gradient-to-br from-blue-50 via-white to-green-50 flex items-center justify-center py-8 px-4 sm:px-6 lg:px-8">
+      <div className="max-w-md w-full space-y-6">
         {/* Header */}
         <div className="text-center">
           <div className="flex items-center justify-center space-x-3 mb-6">
@@ -66,8 +66,8 @@ export default function SigninPage() {
         )}
 
         {/* Signin Form */}
-        <div className="bg-white rounded-xl shadow-lg p-8">
-          <form onSubmit={handleEmailSignin} className="space-y-6">
+        <div className="bg-white rounded-xl shadow-lg p-6">
+          <form onSubmit={handleEmailSignin} className="space-y-5">
             <div>
               <label htmlFor="email" className="block text-sm font-medium text-gray-700 mb-2">
                 <Mail className="h-4 w-4 inline mr-2 text-blue-500" />
