@@ -21,19 +21,30 @@ export default function SignupPage() {
     setMessage('');
 
     try {
-      const { data, error } = await supabase.auth.signUp({
+      // First create the user account
+      const { data: signUpData, error: signUpError } = await supabase.auth.signUp({
         email,
         password
       });
 
-      if (error) {
-        setMessage(`Error: ${error.message}`);
-      } else if (data.user && !data.user.email_confirmed_at) {
+      if (signUpError) {
+        setMessage(`Error: ${signUpError.message}`);
+        return;
+      }
+
+      // Then send OTP for email verification
+      const { error: otpError } = await supabase.auth.signInWithOtp({
+        email,
+        options: {
+          shouldCreateUser: false
+        }
+      });
+
+      if (otpError) {
+        setMessage(`Error sending OTP: ${otpError.message}`);
+      } else {
         setShowOtpInput(true);
         setMessage('Please check your email for a 6-digit verification code.');
-      } else {
-        setMessage('Account created successfully!');
-        router.push('/care');
       }
     } catch (error) {
       setMessage('An unexpected error occurred during signup');
@@ -51,7 +62,7 @@ export default function SignupPage() {
       const { data, error } = await supabase.auth.verifyOtp({
         email,
         token: otp,
-        type: 'signup'
+        type: 'email'
       });
 
       if (error) {
